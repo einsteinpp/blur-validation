@@ -1,6 +1,6 @@
 # Instant feedback for your Laravel validation
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/vincentkos/blur-validation.svg?style=flat-square)](https://packagist.org/packages/vincentkoso/blur-validation)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/vincentkos/blur-validation.svg?style=flat-square)](https://packagist.org/packages/vincentkos/blur-validation)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/vincentkosciuszko/blur-validation/run-tests?label=tests)](https://github.com/vincentkosciuszko/blur-validation/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/vincentkosciuszko/blur-validation/Check%20&%20fix%20styling?label=code%20style)](https://github.com/vincentkosciuszko/blur-validation/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/vincentkos/blur-validation.svg?style=flat-square)](https://packagist.org/packages/vincentkos/blur-validation)
